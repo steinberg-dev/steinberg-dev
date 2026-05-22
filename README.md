@@ -37,10 +37,10 @@
 
   ---
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-steinberg-dev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.
-  com/m-steinberg-dev)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=steinberg-dev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.
+  com/steinberg-dev)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-steinberg-dev&layout=compact&theme=dark&hide_border=true)](https://github.com/m-steinb
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steinberg-dev&layout=compact&theme=dark&hide_border=true)](https://github.com/m-steinb
   erg-dev)
 
   ---
